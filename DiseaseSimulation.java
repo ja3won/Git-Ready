@@ -377,7 +377,7 @@ public class DiseaseSimulation {
 
 	}
 
-	public static int countRecovered(int timestep)
+	public static int countRecovered(int timestep) 
 
 	{
 
@@ -403,7 +403,7 @@ public class DiseaseSimulation {
 
 	}
 
-	public static int countInfected(int timestep) //method that reads the number of infected "I" on the grid
+	public static int countInfected(int timestep) // method that reads the number of infected "I" on the grid
 
 	{
 
