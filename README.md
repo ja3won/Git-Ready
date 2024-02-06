@@ -5,7 +5,7 @@ Justin Pyun
 
 Link to GitHub repo: https://github.com/ja3won/Git-Ready
 
-Video Link:
+Video Link: https://www.youtube.com/watch?v=lbfSCedTDCc
 
 Screencast Software: OBS Ver 30.0.2
 
