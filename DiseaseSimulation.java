@@ -377,7 +377,7 @@ public class DiseaseSimulation {
 
 	}
 
-	public static int countRecovered(int timestep) //method that reads the number of recovered individuals
+	public static int countRecovered(int timestep) //diwdoadiwad
 
 	{
 
